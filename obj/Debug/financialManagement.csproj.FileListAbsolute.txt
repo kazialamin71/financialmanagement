@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\financialManagement\financialManagement\bin\Debug\financialManagement.exe.config
+C:\Users\Asus\source\repos\financialManagement\financialManagement\bin\Debug\financialManagement.exe
+C:\Users\Asus\source\repos\financialManagement\financialManagement\bin\Debug\financialManagement.pdb
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.form_welcome.resources
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.Properties.Resources.resources
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.exe
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.pdb
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.add_income.resources
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.add_expense.resources
+C:\Users\Asus\source\repos\financialManagement\financialManagement\obj\Debug\financialManagement.Add_payerpayee.resources
